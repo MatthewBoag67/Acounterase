@@ -1,0 +1,2 @@
+# acounterase
+Acountertase (A'counter'ase) is an ImageJ (FIJI) Macro that quantifies the protein aggregates amongst a 3-dimensional Z-stack. The model was designed to analyze a-synuclein aggregates (distinguishing oligomeric species from cytosolic punctate) and intracellular ferritin encapsulated within engorged autophagosomes. However, this macro is not linear in detection, meaning an array of inputs can be accurately quantified in a completely automated manner. 
